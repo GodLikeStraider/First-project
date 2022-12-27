@@ -1,0 +1,5 @@
+.footer__column_link{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}

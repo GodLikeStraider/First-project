@@ -1,0 +1,8 @@
+.cards-item{
+  width: 240px;
+  margin-right: 100px;
+}
+.cards-item:nth-child(4n-1){
+  width: 240px;
+  margin: 0;
+}

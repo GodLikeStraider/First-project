@@ -1,0 +1,9 @@
+.kaufman__img{
+  position: absolute;
+  right: -210px;
+  top: 0;
+  width: 877px;
+  height: 877px;
+  z-index: 0;
+  animation: block 20s infinite linear;
+}
